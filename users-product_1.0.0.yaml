@@ -18,6 +18,8 @@ visibility:
 apis:
   users:
     $ref: "users_1.0.0.yaml"
+  websocket:
+    $ref: "WEBSOCKET.yaml"
 plans:
   default:
     title: "Default Plan"
